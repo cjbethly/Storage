@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(215, 232, 243, 0.863);
+    font-size: 15px;
+    font-family: 'Alatsi', sans-serif;
+}
+
+.project1{
+    display: grid;
+    grid-template-columns: 120px 80px 1fr;
+    grid-template-rows: 80px 180px 180px;
+}
+.project2{
+    display: grid;
+    grid-template-rows: 80px 180px;
+    grid-template-columns: 1fr 1fr;
+    
+}
